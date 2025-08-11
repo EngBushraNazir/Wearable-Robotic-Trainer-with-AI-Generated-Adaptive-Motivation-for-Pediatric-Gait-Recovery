@@ -16,13 +16,13 @@ The system integrates:
 ## 📂 Project Files
 
 ### 1️⃣ Envisioned System Behaviour
-[📄 View PDF](01-Envisioned-System-Behaviour/envisioned system behaviour.pdf)  
+[📄 View PDF](envisioned-system-behavior.pdf)  
 Describes how the system is expected to operate step-by-step.
 
 ### 2️⃣ Components
-[📄 View PDF](02-Components/Components.pdf)  
+[📄 View PDF](Components.pdf)  
 A detailed list of all components used in the project.
 
 ### 3️⃣ Connection
-[🖼 View Diagram](03-Connection/connection.pdf)  
+[🖼 View Diagram](connection.pdf)  
 Illustrates how all components are connected.
