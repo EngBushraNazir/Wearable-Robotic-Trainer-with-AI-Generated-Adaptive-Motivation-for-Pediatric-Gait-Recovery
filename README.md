@@ -39,4 +39,4 @@ Illustrates how all components are connected.
 ![Front View](front-view.png)
 
 **Side View:**
-![Side View](side-view.png)
+![Side View](Side-view.png)
