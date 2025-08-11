@@ -15,14 +15,21 @@ The system integrates:
 
 ## 📂 Project Files
 
-### 1️⃣ Envisioned System Behaviour
+### 1️⃣ Initial Idea 
+[📄 View PDF](Initial-Idea.pdf)
+
+### 2️⃣ Envisioned System Behaviour
 [📄 View PDF](envisioned-system-behavior.pdf)  
 Describes how the system is expected to operate step-by-step.
 
-### 2️⃣ Components
+### 3️⃣ Components
 [📄 View PDF](Components.pdf)  
 A detailed list of all components used in the project.
 
-### 3️⃣ Connection
+### 4️⃣ Connection
 [🖼 View Diagram](connection.pdf)  
 Illustrates how all components are connected.
+
+### 5️⃣ ICF-CY Disability Selection & Exercise
+- [🎥 Watch Video ](disability-selection.mp4)  
+
