@@ -33,3 +33,10 @@ Illustrates how all components are connected.
 ### 5️⃣ ICF-CY Disability Selection & Exercise
 - [🎥 Watch Video ](disability-selection.mp4)  
 
+## 📷 Device Sketch
+
+**Front View:**
+![Front View](front-view.png)
+
+**Side View:**
+![Side View](side-view.png)
