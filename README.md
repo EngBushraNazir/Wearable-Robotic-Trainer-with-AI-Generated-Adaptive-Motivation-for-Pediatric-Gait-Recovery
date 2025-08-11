@@ -36,7 +36,7 @@ Illustrates how all components are connected.
 ## 📷 Device Sketch
 
 **Front View:**
-![Front View](front-view.png)
+![Front View](front-view.jpg)
 
 **Side View:**
-![Side View](Side-view.png)
+![Side View](Side-view.jpg)
